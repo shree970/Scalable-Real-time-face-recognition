@@ -1,4 +1,4 @@
-#Run 
+%Run 
 
 $python newmain.py
 
@@ -16,7 +16,7 @@ You can train SVM classifer on this JSON data for further better recognition acc
 
 
 
-#Click verify for Recognition
+%Click verify for Recognition
 
 If face data is already present it will output bounding boxes with label. If not, will throw dialog box suggesting to register again(after 25 frames).
 
