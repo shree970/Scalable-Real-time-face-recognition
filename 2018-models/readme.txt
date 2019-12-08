@@ -1,0 +1,1 @@
+Replace these files respectively in original folder structure. This model outputs 512d embeddings.
